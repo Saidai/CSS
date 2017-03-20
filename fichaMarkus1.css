@@ -1,4 +1,33 @@
-#sai1 {
-  margin-top: 8px;
-  margin-bottom: 8px;
+#sainombre1 {
+    color: #2331B2;
+    text-shadow:1px 1px 2px #EBEBEB;
+}
+
+#saidato1 {
+    background-color: #2B39DE;
+    color: black;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#saidato1:hover {
+    background-color: #3A3E61;
+    color: white;
+}
+
+#saiexpediente1 {
+    background-color: #F7F7F7;
+}
+
+#saigrisoscuro1 {
+    background-color: #1D1D1D;
+    color: white;
+}
+#saigrismedio1 {
+    background-color: #7A7A7A;
+    color: black;
+    outline: 1px solid black;
+}
+#saiicon1{
+  border: 5px solid #3A3E61;
 }
