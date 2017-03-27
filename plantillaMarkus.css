@@ -1,5 +1,5 @@
 .saicabe1 {
-  text-align: center;
+  text-align: center !important;
     font: 30px Roboto;
     color: black;
     background-color: blue;
