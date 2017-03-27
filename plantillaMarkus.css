@@ -1,0 +1,15 @@
+.saicabe1 {
+    font: 30px Roboto;
+    color: black;
+    width: 500px;
+    background-color: blue;
+}
+
+.saipost1 {
+    font: 12px Roboto;
+    color: white;
+}
+
+.saipost1 span {
+    color: red;
+}
